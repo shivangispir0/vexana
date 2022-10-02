@@ -9,7 +9,7 @@
          "manager",
          "innexi"
       ],   
-   "repository": "https://github.com/aksr-aashish/vexana.git",
+   "repository": "https://github.com/vexana/vexana.git",
    "addons": [
       {
          "options": {
